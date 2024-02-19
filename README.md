@@ -5,7 +5,6 @@ Techstack:
 -> Frontend ReactJs
 
     -> Material UI for page components
-    
     -> Plotly for chart
     
 -> Backend Nodejs/Express
@@ -29,5 +28,7 @@ Techstack:
 
 
 Preview of Page:
-![Uploading screencapture-localhost-3000-2024-02-19-16_06_48.png…]()
+
+![screencapture-localhost-3000-2024-02-19-16_06_48](https://github.com/Subhadra-21/CodeClusterAssessment/assets/59275926/8c1e5356-de8c-4b24-97f5-a56a0cb27d49)
+
 
