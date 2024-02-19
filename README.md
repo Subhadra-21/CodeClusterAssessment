@@ -24,7 +24,8 @@ Techstack:
     4.2server:
     -> npm run server
 
-5. localhost:3000/
+5. Open this page in browser
+   localhost:3000/
 
 
 Preview of Page:
