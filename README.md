@@ -18,10 +18,10 @@
 3. npm i
 4. Run client and server in 2 different terminal
 
-    4.1client:
+    4.1 client:
     -> npm start
 
-    4.2server:
+    4.2 server:
     -> npm run server
 
 5. Open this page in browser
