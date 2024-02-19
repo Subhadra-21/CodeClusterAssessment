@@ -1,10 +1,15 @@
 # CodeClusterAssessment
 
 Techstack:
+
 -> Frontend ReactJs
+
     -> Material UI for page components
+    
     -> Plotly for chart
+    
 -> Backend Nodejs/Express
+
 -> In memory Json files for DB
 
 ### Steps to Run application
